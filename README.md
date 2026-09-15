@@ -289,4 +289,6 @@ This package follows [SemVer](https://semver.org/spec/v2.0.0.html), with two cla
 1. Changes to library internals that are technically public but neither intended nor documented for external use.
 2. Changes not expected to affect the vast majority of users in practice.
 
+See `VERSIONING.md` for how versions are chosen and released in this repository.
+
 Powered by Scalar.

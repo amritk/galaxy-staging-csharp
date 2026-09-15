@@ -5,6 +5,9 @@
     <PackageTags>sdk;api;http;library</PackageTags>
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
     <Copyright>Copyright 2026 Demo API (Scalar Galaxy)</Copyright>
+    <PackageProjectUrl>https://www.github.com/amritk/galaxy-staging-csharp</PackageProjectUrl>
+    <RepositoryUrl>https://www.github.com/amritk/galaxy-staging-csharp</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
 
     <!-- Documentation -->
     <GenerateDocumentationFile>true</GenerateDocumentationFile>

@@ -3,7 +3,7 @@
     <!-- Metadata -->
     <AssemblyTitle>Demo Api Scalar Galaxy C#</AssemblyTitle>
     <AssemblyName>DemoApiScalarGalaxy</AssemblyName>
-    <VersionPrefix>0.1.0</VersionPrefix> <!-- x-release-please-version -->
+    <VersionPrefix>0.2.0</VersionPrefix> <!-- x-release-please-version -->
     <Description>The Scalar Galaxy is an example OpenAPI document to test OpenAPI tools and libraries. It&apos;s a fictional universe with fictional planets and fictional data. Get all the data for all planets.</Description>
     <OutputType>Library</OutputType>
     <PackageReadmeFile>README.md</PackageReadmeFile>
