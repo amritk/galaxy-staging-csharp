@@ -8,6 +8,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoApiScalarGalaxy.Tests",
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D4D2A945-C51D-410F-8EB7-79B3F2228BD1}"
 	ProjectSection(SolutionItems) = preProject
+		CHANGELOG.md
 		.csharpierignore
 		.editorconfig
 		.gitignore
